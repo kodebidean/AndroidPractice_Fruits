@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomCard">
+        <item name="android:backgroundTint">@color/dark_background_component</item>
+        <item name="android:layout_marginHorizontal">16dp</item>
+        <item name="android:layout_marginVertical">8dp</item>
+    </style>
+    <style name="CustomCardTV">
+        <item name="android:textSize">16sp</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/cardview_light_background</item>
+    </style>
+    <style name="CustomCardTVd">
+        <item name="android:textSize">10sp</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/cardview_light_background</item>
+    </style>
+    <style name="CustomCardIV">
+        <item name="android:layout_marginStart">12dp</item>
+        <item name="android:layout_marginVertical">8dp</item>
+        <item name="android:shadowColor">@color/black</item>
+        <item name="borderRound">3dp</item>
+    </style>
+</resources>
