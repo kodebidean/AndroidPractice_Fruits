@@ -1,4 +1,3 @@
-Para un proyecto de aprendizaje en Android Studio, tu archivo `README.md` puede incluir secciones que no solo expliquen la funcionalidad básica del proyecto, sino que también resalten los conceptos y tecnologías que estás practicando. Aquí te dejo un esquema detallado que puedes adaptar:
 
 ---
 
@@ -79,5 +78,3 @@ Este proyecto fue desarrollado para practicar y afianzar conceptos clave en el d
 - [Picasso Library](https://square.github.io/picasso/)
 
 ---
-
-Este README proporciona una guía completa y profesional para cualquier persona que quiera entender, instalar y utilizar tu proyecto de aprendizaje en Android Studio. También muestra los conceptos clave que practicaste y aprendiste durante el desarrollo.
